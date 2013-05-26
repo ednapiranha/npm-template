@@ -1,0 +1,22 @@
+{
+  "name": "npm-template",
+  "version": "0.0.1",
+  "description": "npm template",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": ">= 1.9.0",
+    "should": ">= 1.2.2",
+    "nock": ">= 0.18.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ednapiranha/npm-template.git"
+  },
+  "keywords": [],
+  "author": "Edna Piranha <jen@ednapiranha.com> (http://ednapiranha.com)",
+  "license": "BSD"
+}
