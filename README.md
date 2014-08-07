@@ -2,4 +2,4 @@
 
 This is a template for creating new node modules.
 
-Replace package.json and index.js with your project code and info.
+Replace package.json and index.js with your project content.
