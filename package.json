@@ -2,7 +2,7 @@
   "name": "npm-template",
   "version": "0.0.1",
   "description": "npm template",
-  "main": "main.js",
+  "main": "index.js",
   "dependencies": {},
   "devDependencies": {
     "mocha": "~1.21.3",
